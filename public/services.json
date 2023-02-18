@@ -1,0 +1,166 @@
+[
+
+
+    {
+        "_id": "63f09fc162fe1f0c63e76301",
+        "service_id": "04",
+        "title": "Engine Oil Change",
+        "img": "https://i.ibb.co/gvpVrpL/1.jpg",
+        "price": "20.00",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "24/27 Quality Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "Easy Customer Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "Quality Cost Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            }
+        ]
+
+    },
+    {
+        "_id": "63f0a7aed9ea6cf8a33d393f",
+        "service_id": "05",
+        "title": "Battery Charge",
+        "img": "https://i.ibb.co/c18D95P/5.jpg",
+        "price": "20.00",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "24/27 Quality Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "Easy Customer Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "Quality Cost Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            }
+        ]
+    },
+
+    {
+        "_id": "63f0a7aed9ea6cf8a33d394f",
+        "service_id": "01",
+        "title": "Full Car Repair",
+        "img": "https://i.ibb.co/BGMhhtL/2.jpg",
+        "price": "20.00",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "24/27 Quality Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "Easy Customer Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "Quality Cost Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            }
+        ]
+    },
+
+    {
+        "_id": "63f0a7aed9ea6cf8a33d395f",
+        "service_id": "02",
+        "title": "Engine Repair",
+        "img": "https://i.ibb.co/DRWPcPf/6.jpg",
+        "price": "20.00",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "24/27 Quality Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "Easy Customer Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "Quality Cost Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            }
+        ]
+    },
+
+    {
+        "_id": "63f0a7aed9ea6cf8a33d396f",
+        "service_id": "03",
+        "title": "Autometic Services",
+        "img": "https://i.ibb.co/3MrjChf/3.jpg",
+        "price": "20.00",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "24/27 Quality Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "Easy Customer Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "Quality Cost Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            }
+        ]
+    },
+
+    {
+        "_id": "635b5ba51dafe382a9da8c9a",
+        "service_id": "06",
+        "title": "Electrical System",
+        "img": "https://i.ibb.co/5WDPgsL/4.jpg",
+        "price": "20.00",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "24/27 Quality Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "Easy Customer Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "name": "Quality Cost Services",
+                "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            }
+        ]
+    }
+]
+
